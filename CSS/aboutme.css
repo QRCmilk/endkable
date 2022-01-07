@@ -10,7 +10,7 @@
     align-items: center;
 }
 .container{
-    width: 1200px;
+    width: 1000px;
     margin:auto;
     display: flex;
     flex-wrap: wrap;
